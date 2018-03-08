@@ -1,0 +1,265 @@
+.anthony {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.barbara {
+  border: 1px solid deeppink;
+  margin: 5px;
+  border-radius: 3px; }
+
+.betty {
+  border: 1px solid darkorange;
+  margin: 5px;
+  border-radius: 3px; }
+
+.brian {
+  border: 1px solid darkkhaki;
+  margin: 5px;
+  border-radius: 3px; }
+
+.carol {
+  border: 1px solid magenta;
+  margin: 5px;
+  border-radius: 3px; }
+
+.charles {
+  border: 1px solid blueviolet;
+  margin: 5px;
+  border-radius: 3px; }
+
+.christopher {
+  border: 1px solid limegreen;
+  margin: 5px;
+  border-radius: 3px; }
+
+.daniel {
+  border: 1px solid lightseagreen;
+  margin: 5px;
+  border-radius: 3px; }
+
+.david {
+  border: 1px solid cyan;
+  margin: 5px;
+  border-radius: 3px; }
+
+.deborah {
+  border: 1px solid steelblue;
+  margin: 5px;
+  border-radius: 3px; }
+
+.donald {
+  border: 1px solid deepskyblue;
+  margin: 5px;
+  border-radius: 3px; }
+
+.donna {
+  border: 1px solid mediumblue;
+  margin: 5px;
+  border-radius: 3px; }
+
+.dorothy {
+  border: 1px solid burlywood;
+  margin: 5px;
+  border-radius: 3px; }
+
+.edward {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.elizabeth {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.george {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.helen {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.james {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.jason {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.jeff {
+  border: 1px solid silver;
+  margin: 5px;
+  border-radius: 3px; }
+
+.jennifer {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.john {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.joseph {
+  border: 1px solid rosybrown;
+  margin: 5px;
+  border-radius: 3px; }
+
+.karen {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.kenneth {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.kevin {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.kimberly {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.laura {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.linda {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.lisa {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.maria {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.mark {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.mary {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.michael {
+  border: 1px solid brown;
+  margin: 5px;
+  border-radius: 3px; }
+
+.michelle {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.nancy {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.patricia {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.paul {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.richard {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.robert {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.ronald {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.ruth {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.sandra {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.sarah {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.sharon {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.steven {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.susan {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.thomas {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+.william {
+  border: 1px solid red;
+  margin: 5px;
+  border-radius: 3px; }
+
+body, html {
+  height: 100%; }
+
+.barbara {
+  /* The image used */
+  background-image: url("../img/sky-lights-space-dark.jpg");
+  /* Full height */
+  height: 100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.betty {
+  height: 300px;
+  background-color: red;
+  font-size: 36px; }
+
+/*# sourceMappingURL=styles.css.map */
